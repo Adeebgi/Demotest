@@ -5,6 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class CalendarHandling {
 
@@ -30,6 +31,16 @@ public class CalendarHandling {
 			break;
 		}
 		}
+	}
+	@Test 
+	public void getupdate()
+	{
+		System.out.println("Adeeb is the best QA Tester");
+		System.out.println("Adeeb is the best QA Tester");
+		System.out.println("Adeeb is the best QA Tester");
+		System.out.println("Adeeb is the best QA Tester");
+		System.out.println("Adeeb is the best QA Tester");
+		
 	}
 }
 
